@@ -1,0 +1,8 @@
+### Module positions - created on Mon 25 Mar 2019 10:34:39 PM MDT ###
+### Printed by Pcbnew version kicad 5.1.0-060a0da~80~ubuntu16.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                          PosX       PosY       Rot  Side
+M1        MPMOS     A19T_Handsoldering           115.5700   -50.2920  270.0000  top
+U1        FT232RL   SSOP-28_5.3x10.2mm_P0.65mm   104.1400   -41.9100   90.0000  top
+## End
